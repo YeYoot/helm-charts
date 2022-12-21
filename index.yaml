@@ -1,0 +1,18 @@
+apiVersion: v1
+entries:
+  esdk:
+  - apiVersion: v2
+    appVersion: 3.1.0
+    created: "2022-12-21T08:34:53.876790129Z"
+    description: Huawei Container Storage Interface (CSI) Driver
+    digest: 10122d7666461c7e56f5a43163297fbdb1a8769664e9aa5c3b8e491a41b39303
+    home: https://github.com/Huawei/eSDK_K8S_Plugin
+    kubeVersion: '>= 1.21.0 < 1.25.0'
+    name: esdk
+    sources:
+    - https://github.com/Huawei/eSDK_K8S_Plugin
+    type: application
+    urls:
+    - https://yeyoot.github.io/helm-charts/esdk-1.0.0.tgz
+    version: 1.0.0
+generated: "2022-12-21T08:34:53.876283517Z"
